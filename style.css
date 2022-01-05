@@ -1,0 +1,120 @@
+body{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.header-menu{
+    display: block;
+}
+
+ul{
+    justify-content: end;
+    display: flex;
+    list-style: none;
+    padding: 20px 30px;
+}
+
+ul li a{
+    
+    margin-left: 30px;
+    
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;  
+}
+.main-div{
+    display: flex;
+}
+.main-div img{
+    width: 100%;
+    margin-left: 70px;
+}
+.content-text h1{
+   color: #ed4d7d;
+   font-size: 45px;
+   font-weight: 700;
+}
+.content-text h2{
+    color: #000000;
+    font-size: 30px;
+    margin-bottom: -30px;
+    font-weight: 500;
+}
+.content-text p{
+   font-size: 16px;
+   font-weight: 400;
+   color: #717171;
+   margin-bottom: 50px;
+}
+.content-text .defalt-btn{
+    border-radius: 5px;
+    padding: 10px 35px;
+    text-decoration: none;
+    background: #ed4d7d;
+    font-size: 16px;
+    color: white;
+}
+.content-text{
+    height: 500px;
+    margin: auto;
+}
+.width-dibo{
+    width: 80%;
+}
+.work h1{
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+}
+.felx-korbo{
+    display: flex;
+    margin:100px;
+}
+.felx-korbo img{
+    max-width: 100%;
+}
+.work h2{
+    text-align: center;
+    font-size: 20px;
+    
+
+}
+.work h5{
+    color: gray;
+    font-size: 16px;
+    text-align: center;
+}
+.work .center-a-nibo{
+    text-align: center;
+    width: 62%;
+    margin: auto;
+    font-size: 24px;
+}
+.work{
+    margin: 100px;
+}
+.color-korbo{
+    text-align: center;
+    background-color: #ed4d7d;
+    padding: 80px;
+    border-radius: 10px;
+}
+.color-korbo h1{
+    font-size: 35px;
+    color: white;
+}
+.color-korbo h2{
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+}
+footer p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
